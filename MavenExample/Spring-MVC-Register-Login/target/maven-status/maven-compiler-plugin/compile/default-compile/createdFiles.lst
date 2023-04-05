@@ -1,0 +1,9 @@
+com\example\spring\mvc\controller\RegistrationController.class
+com\example\spring\mvc\controller\LoginController.class
+com\example\spring\mvc\model\User.class
+com\example\spring\mvc\model\Login.class
+com\example\spring\mvc\service\UserService.class
+com\example\spring\mvc\dao\UserDaoImpl.class
+com\example\spring\mvc\dao\UserDao.class
+com\example\spring\mvc\service\UserServiceImpl.class
+com\example\spring\mvc\dao\UserMapper.class
